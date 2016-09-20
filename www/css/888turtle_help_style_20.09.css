@@ -1,0 +1,19 @@
+h1 {
+    padding-top: 42px;
+    margin: 0;
+}
+
+h2  {
+    margin: 0;
+}
+
+h1,
+ul li:before {
+    color: #c00;
+}
+
+h2, p,
+p > strong,
+p > em {
+    color: #fff;
+}
